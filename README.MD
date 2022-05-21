@@ -39,7 +39,7 @@ $ sudo apt update && sudo apt upgrade
 Pesquisar na microsoft store: Windows Terminal && Instalar
 
 
-## CRUD REST_API Tutorial no Unbuntu
+## CRUD REST_API Tutorial no Ubuntu
 
 #### LINUX
 ```
