@@ -1,9 +1,9 @@
 ## WSL Installation Tutorial
 
 Painel de Controle > Programas > Ativar ou Desativar Recursos
-=> Selecionar CheckBox: Subsistema do Windows para Linux
+- Selecionar CheckBox: Subsistema do Windows para Linux
 
-Tente instalar o WSL pelo comando:
+Abra o PowerShell como Administrador e tente instalar o WSL pelo comando:
 ```bash
 wsl --install
 ```
