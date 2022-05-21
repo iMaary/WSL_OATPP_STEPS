@@ -8,7 +8,7 @@ Tente instalar o WSL pelo comando:
 wsl --install
 ```
 
-Caso não funcione, siga os próximos passo abaixo:
+Caso não funcione, siga os próximos passos abaixo:
 
 ```bash
 $ dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
